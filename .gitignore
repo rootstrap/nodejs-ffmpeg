@@ -128,3 +128,8 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+#Example files
+compressed_output.mp4
+output.mp4
+frame_at_5s.png
